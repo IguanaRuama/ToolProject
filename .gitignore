@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/ToolProject/Binaries/Win64/ToolProject.pdb
+Windows/ToolProject/Content/Paks/global.ucas
+Windows/ToolProject/Content/Paks/global.utoc
+Windows/ToolProject/Content/Paks/ToolProject-Windows.pak
+Windows/ToolProject/Content/Paks/ToolProject-Windows.ucas
+Windows/ToolProject/Content/Paks/ToolProject-Windows.utoc
